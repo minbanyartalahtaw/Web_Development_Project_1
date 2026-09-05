@@ -4,13 +4,12 @@ A React single-page application with a 3-column Kanban board and a summary
 dashboard. All data is kept in the browser's **Local Storage** — there is no
 backend, so the tasks and categories you create are still there after a refresh.
 
-**Live demo:** https://<github-username>.github.io/<repository-name>/
+**Live demo:** https://minbanyartalahtaw.github.io/Web_Development_Project_1/
 
 ## Team Members
 
-- Member One
-- Member Two
-- Member Three
+- 6715168 - Min Banyar Tala Htaw
+- 6714506 - Sai Aung Nyunt
 
 ## Screenshots
 
@@ -71,7 +70,7 @@ npm run preview # preview the production build
 
 1. Open the app — the board starts with a few sample tasks.
 2. Click **+ New Task**, fill in the form and press **Save**.
-3. To add a category, type its name in the *New category* box inside the form
+3. To add a category, type its name in the _New category_ box inside the form
    and click **Add category**; it is selected right away and stays available.
 4. Use the dropdown on a card to move a task between TO DO, DOING and DONE.
    Moving it to DONE records today's date as the complete date.
